@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\E_commerceWeb\Data\obj\Debug\net7.0\E_commerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\E_commerceWeb\Data\obj\Debug\net7.0\E_commerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\E_commerceWeb\Data\obj\Debug\net7.0\E_commerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\E_commerceWeb\Data\obj\Debug\net7.0\E_commerce.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\E_commerceWeb\Data\obj\Debug\net7.0\E_commerce.DataAccess.csproj.CoreCompileInputs.cache

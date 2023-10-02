@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\bin\Debug\net7.0\E_commerce.Models.deps.json
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\bin\Debug\net7.0\E_commerce.Models.runtimeconfig.json
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\bin\Debug\net7.0\E_commerce.Models.dll
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\bin\Debug\net7.0\E_commerce.Models.pdb
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\E_commerce.Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\E_commerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\E_commerce.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\E_commerce.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\E_commerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\E_commerce.Models.dll
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\refint\E_commerce.Models.dll
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\E_commerce.Models.pdb
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\E_commerce.Models.genruntimeconfig.cache
+C:\Users\User\Desktop\E_commerceWeb\E_commerce.Models\obj\Debug\net7.0\ref\E_commerce.Models.dll
